@@ -1,2 +1,19 @@
 Caderno de anotação
-alteração teste
+HTML = Conteudo
+CSS = Estilo
+Java Script = Função
+
+Tags HTML
+
+<p>Exemplo de parágrafo</p>
+<a herf="destino.html">Exemplo de link</a>
+<h1> Exemplo de título </h1> vai até o h6
+<img src="foto.png" alt="Exemplo de foto">
+
+Tags CSS
+
+h1 {
+    font-family:arial;
+    font-size:20pt;
+    color:blue;
+}
